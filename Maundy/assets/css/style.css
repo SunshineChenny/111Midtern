@@ -5,7 +5,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  background: url("../img/bg.jpg") top center no-repeat;
+  background: url("../img/Back.png") top center no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -27,12 +27,12 @@ body::before {
 }
 
 a {
-  color: #24b7a4;
+  color: #FFFF00;
   text-decoration: none;
 }
 
 a:hover {
-  color: #36d8c3;
+  color: #FFFF00;
   text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #24b7a4;
+  background: #FFFF00;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -73,7 +73,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2ed6c0;
+  background: #FFA701;
   color: #fff;
 }
 
@@ -186,7 +186,7 @@ h6 {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #24b7a4;
+  background: #FAFD0F;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -194,7 +194,7 @@ h6 {
 }
 
 #header .subscribe .subscribe-form input[type=submit]:hover {
-  background: #22ae9c;
+  background: #FFFF00;
 }
 
 #header .subscribe .error-message {
@@ -264,8 +264,8 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #24b7a4;
-  border-color: #24b7a4;
+  background: #FFFF00;
+  border-color: #FFFF00;
 }
 
 /*--------------------------------------------------------------
@@ -315,12 +315,12 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #24b7a4;
+  color: #FFFF00;
 }
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #24b7a4;
+  background: #FFFF00;
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
@@ -330,7 +330,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #28ccb7;
+  background: #FFFF00;
 }
 
 .navbar .dropdown ul {
@@ -367,7 +367,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #24b7a4;
+  color: #FFFF00;
 }
 
 .navbar .dropdown:hover>ul {
@@ -466,7 +466,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #24b7a4;
+  color: #FFFF00;
 }
 
 .navbar-mobile .getstarted,
@@ -501,7 +501,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #24b7a4;
+  color: #FFFF00;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -540,7 +540,7 @@ section {
   display: block;
   width: 50px;
   height: 2px;
-  background: #24b7a4;
+  background: #FFFF00;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -590,8 +590,8 @@ section {
 # Contact Us
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #24b7a4;
-  border-bottom: 3px solid #24b7a4;
+  border-top: 3px solid #FFFF00;
+  border-bottom: 3px solid #FFFF00;
   padding: 30px;
   background: rgba(255, 255, 255, 0.06);
   width: 100%;
@@ -649,21 +649,21 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #24b7a4;
+  background: #FFFF00;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #24b7a4;
+  background: #FFFF00;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #24b7a4;
-  border-bottom: 3px solid #24b7a4;
+  border-top: 3px solid #FFFF00;
+  border-bottom: 3px solid #FFFF00;
   padding: 30px;
   background: rgba(255, 255, 255, 0.06);
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -738,7 +738,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #24b7a4;
+  background: #FFFF00;
   border: 0;
   padding: 10px 24px;
   color: #fff;
